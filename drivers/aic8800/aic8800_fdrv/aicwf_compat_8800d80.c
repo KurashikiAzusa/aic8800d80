@@ -5,6 +5,9 @@
 
 #define FW_USERCONFIG_NAME_8800D80         "aic_userconfig_8800d80.txt"
 #define FW_POWERLIMIT_NAME_8800D80         "aic_powerlimit_8800d80.txt"
+#define FW_USERCONFIG_NAME_8800D80_U11     "aic_userconfig_8800d80_u11.txt"
+#define FW_USERCONFIG_NAME_8800D80_U11_PRO "aic_userconfig_8800d80_u11_pro.txt"
+#define FW_USERCONFIG_NAME_8800D80_U11_CUS "aic_userconfig_8800d80_u11_cus.txt"
 
 extern char aic_fw_path[200];
 
